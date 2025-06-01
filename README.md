@@ -1,1 +1,2 @@
 # PowerBI_Project
+Developed an interactive Power BI dashboard to analyze and visualize key performance metrics of the T20 World Cup 2024. Integrated multiple data sources including match statistics, player performance, and team rankings to provide real-time insights. Created dynamic visuals such as scorecards, player comparison charts, and win probability indicators to support strategic decision-making. 
